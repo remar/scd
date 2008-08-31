@@ -91,15 +91,15 @@ Gazpacho Soup (Gazpachosoppa)
 -------------
 
 1 liter tomatjuice
-1 liten well-minced lök (välmosad?)
+1 liten finhackad lök
 1/2 liter tärnade färska tomater
-2 dl minced grön paprika
+2 dl hackad grön paprika
 2 dl tärnad gurka
-1 clove (klyfta?) vitlök, mosad
+1 vitlöksklyfta, mosad
 Juice från 1/2 citron
 Juice från 1 lime (valfritt)
 2 msk vit vinäger (vitvinsvinäger?)
-1 tsk tarragon (valfritt)
+1 tsk dragon (valfritt)
 1 tsk basilika
 1/2 dl färsk hackad persilja
 2 msk olivolja
@@ -122,7 +122,7 @@ Hearty Vegetable Soup (Hjärtlig grönsakssoppa)
 1/2 liter (hemmagjord) kyckling- eller nötbuljong
  ELLER 1 liter watten och ca 1/2 kg köttben (eller 1/4-1/2 kg kött)
 2 msk olja eller smör
-kryddor efter smak (örter och kryddor såsom basilika, salt, peppar, bay leaf)
+kryddor efter smak (örter och kryddor såsom basilika, salt, peppar, lagerblad)
 
 Om du har en köksmixer så kan alla grönsaker hackas i några minuter
 med stålbladet. Sautera lök och morötter i olja eller smör tills de är
@@ -153,9 +153,9 @@ Roasted Eggplant Soup (Rostad äggplantssoppa)
 2 stjälkar selleri, grovt hackade
 1 mellanstor morot, grovt hackad
 1 msk olivolja
-4 klyftor färsk vitlök, minced
+4 klyftor färsk vitlök, hackade
 1/2 liter (hemmagjord) yoghurt
-2 quarts kyckling- eller räkbuljong
+2 liter kyckling- eller räkbuljong
 3 tsk smör
 1 1/2 dl färsk basilika
 salt och peppar
@@ -178,7 +178,7 @@ Condiments, sallads, and salad dressings (..., sallader och salladsdressingar)
 Chili Sauce (Chilisås)
 -----------
 
-1 - 6 qt. mogna tomater, oskalade, hackade
+1 - 6 liter mogna tomater, oskalade, hackade
 12 dl selleri, hackade
 8 dl lök, hackade
 4 dl grön paprika, hackade
@@ -209,7 +209,7 @@ Honey-Ginger Chutney (Honungingefärschutney)
 4 tsk färsk ingefära, riven
 1 1/2 dl mandlar, skivade
 
-Värm honung och vinäger i en stor saucepan. Skala, kärna ur och tärna
+Värm honung och vinäger i en stor kastrull. Skala, kärna ur och tärna
 äpplena fint. Tillsätt äpplena till honungsvinägern och sjud i 20
 minuter. Ta bort frön och hacka paprikor och citroner fint, helst i en
 köksmixer användandes metallbladet. Tillsätt till äppelmixen. Rör ner
@@ -222,9 +222,9 @@ Ketchup (Ketchup...)
 -------
 
 1/2 liter tomatjuice
-1-3 msk vit vinäger (vitvinsvinäger?) white vinegar
+1-3 msk vit vinäger/ättika (vitvinsvinäger?) white vinegar
 honung och/eller sackarin efter smak
-bay leaf (lagerblad?)
+lagerblad
 salt och peppar
 
 Mixa alla ingredienser utom sötningsmedel och sjud på spisen tills det
@@ -273,22 +273,122 @@ med honung.
 Serveras med kött eller fisk, eller mixa med DCCC och servera på sallat.
 
 
+Cottage Cheese Salad (Kesosallad)
+--------------------
+
+2 dl DCCC
+1/2 dl (hemmagjord) yoghurt
+1/2 dl osötad ananas (färsk eller konserverad) eller annan frukt efter säsong
+
+Mixa ihop ingredienserna och servera på sallat.
 
 
+Halloween Carrot Salad (Halloweenmorotssallad)
+----------------------
+
+4 dl rivna råa morötter
+1 dl (hemmagjord) majonäs
+salladsblad
+
+Garnering: några mörka russin och bitar av grön paprika
+
+Mixa morötter med majonäs. Fyll en liten kopp med morotssallad vänd
+upp på en tallrik fyld med salladsblad. Gör ögon och näsa på
+pumpahuvudet med russin, använd lite grön paprika för att göra munnen.
+
+
+Mock Antipasto Salad
+---------------------
+
+1 burk anchovis
+1 eller 2 hårdkokta ägg, skurna i 4 delar
+2 färska tomater, tärnade eller skivade
+sallat, strimlad
+italienska kryddor (oregano, basilika) om så önskas
+olja- och vinägerdressing (vinaegrette?)
+
+Mixa alla ingredienser och låt stå svalt.
+
+
+Seafood Salad
+-------------
+
+1 burk tonfisk, lax eller krabbkött eller 1/2 kg kokt och kyld mild fisk
+1 dl (hemmagjord) majonäs
+salladsblad
+
+Häll av oljan eller vattnet från fisken. Fördela fisken med en
+gaffel. Tillsätt så mycket majonäs som önskas, mixa ordentligt, och
+kyl ner. Serveras på en bädd av salladsblad.
+
+
+Summer Fruit Terrine
+--------------------
+
+1/2 liter äppelcider (hemmagjord äppelmust?)
+2 envelopes unflavored gelatin (?)
+1/2 dl honung
+1/2 tsk vanilj
+Färsk frukt:
+  3 eller 4 olika sorter såsom jordgubbar, hallon, cantaloupe,
+  honungsmelon, apelsinbitar
+
+En normalstor brödform är lagom till det här receptet. Apple cider
+(äppelmust?)  kan du lättast köpa på hösten beroende på var du bor,
+och kan sedan frysas in och användas under sommarmånaderna när färsk
+frukt finns tillgänglig.
+
+I toppen på en double boiler, värm apple cider och honung. Lägg
+gelatinbladen i 1 dl kallt vatten i ett par minuter så att de
+mjuknar. När apple cider är varmt, tillsätt gelatin och rör
+ordentligt. Mängden frukt att använda bestäms av storleken på
+formen. Lägg ett lager frukt i botten på formen och häll över apple
+cider så att det täcker. Kyl tills det har stelnat. Lägg på ett till
+lager frukt ovanpå det tidigare lagret och täck med avsvalnad(!) apple
+cider. Kyl tills andra laget har stelnat. Repetera tills formen är
+full. Gelatinlagret mellan fruktlagren ska vara minst 1/2-1 cm
+tjockt. Låt stå svalt över natten. För att få loss, gnid formen med
+ett varmt tyg på botten och sidorna och vänd upp på ett serveringsfat.
+
+
+Waldorf Salad
+-------------
+
+6 dl äpplen, skurna i bitar eller 1 cm^2 kuber (skalat eller oskalat)
+2 dl ananasbitar (färsk eller konserverad, osötad)
+1/2 dl russin
+1 stjälk selleri, hackad
+1 dl tunnt skuren grön paprika (valfritt)
+2 dl tunnt skivade råa morötter (valfritt)
+1/2-1 dl valnötsbitar
+
+Rör ihop alla ingredienser. Blanda med 2 dl yoghurtdressing eller
+majonäs. Servera på salladsblad.
+
+
+Zucchini and Tomato Salad
+-------------------------
+
+4 dl tärnad okokt zucchini eller gurka
+4 dl tärnade färska tomater (ta med juicen)
+1/2 dl hackad grön lök
+1 liten grön paprika skuren i smala bitar
+1 stjälk selleri, hackad
+vinaigrette dressing
+
+Skär till grönsakerna och tillsätt dressingen. Kyl ner i åtminstone en
+timme före servering.
 
 
 
 ORDLISTA
 --------
 
-well-minced
-clove garlic
-tarragon
-bay leaf (lagerblad?)
-quart
-qt. (quart?)
-saucepan
-white vinegar (vitvinsvinäger?)
-cilantro
-red bell pepper
-cranberry (tranbär?)
+white vinegar (vitvinsvinäger?, vit ättika?)
+cilantro = ?
+red bell pepper = ?
+1 envelope unflavored gelatin = hur mycket i sverige??
+cantaloupe = ?
+double boiler = ?
+apple cider = ? (äppelmust?)
+vinaigrette = ? (mest stavning..)
