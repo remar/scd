@@ -4,7 +4,7 @@ Recept från Breaking the Vicious Cycle översatta till svenska
 
 
 Appetizers, dips, and spreads (Aptitretare, dippar och pålägg)
-Soups (soppor)
+Soups (Soppor)
 Condiments, salads, and salad dressings (..., sallader och salladsdressingar)
 
 
@@ -466,17 +466,80 @@ Vegetables (Grönsaker)
 Baked Acorn (Pepper) Squash
 ---------------------------
 
+1 acorn squash
+lite smör
+lite honung
+rivet apelsinskal (1/4 tsk per squashhalva)
+
+Dela acorn squash på hälften och använd 1/2 squash per portion. Skopa
+ur fröhuset med en sked. Lägg squashen med den skurna sidan ner på ett
+bakplåtspapper och ugnsbaka i 200 grader tills en slö kniv lätt går
+igenom squashen. Vänd på squashen och lägg på smör, honung och rivet
+apelsinskal. Sätt tillbaka i ugnen i ytterligare 15-30 minuter i 180
+grader.
+
+Variant: Dessa "squashbåtar" kan också fyllas med en mix av kokt fågel
+eller kokt kött som har mixats med grönsaker och spätts med buljong,
+yoghurt eller "löksås" (Se Löksås).
+
+
 Butternut Squash Slices
 -----------------------
+
+1 butternut squash
+lite smör
+salt
+
+Skär av toppen på en butternut squash (du behöver inte skala den). Om
+du vill att det ska bli krispigt, skär väldigt tunt, ungefär 1/2
+cm. Om tunnt skurna så kan de användas som ersättning för pommes
+frites. Lägg på ett bakplåtspapper, lägg på smör och baka i en het
+ugn, 230 grader, tills ena sidan är brun. Vänd på bitarna och låt
+andra sidan bli brun.
+
 
 Carrot Curls
 ------------
 
+Det här receptet kan användas som ett substitut för potatischips eller
+när du vill ha något knaprigt. Gör "morotsskruvar" av 3 morötter med
+hjälp av en potatisskalare. Fritera i olja tills de blir gyllene
+bruna. Häll i durkslag eller sil. Låt oljan svalna och förvara den
+sedan i kylskåp. (Använd inte oljan mer än 3 gånger eftersom den kan
+bli rancid.) Vänd morotsskruvarna på en pappershandduk och låt
+torka. Salta.
+
+
 Cauliflower "Potatoes"
 ----------------------
 
+Detta är ett utsökt substitut för potatismos.
+
+1 stor blomkål, skuren i bitar
+1/2 dl smör eller 1/2 dl yoghurt
+salt och peppar
+persilja och paprika som garnityr
+
+Koka blomkålen tills den är lagom mjuk. Häll av vattnet. Purea i en
+blender eller matberedare. Tillsätt smör eller yoghurt, salt och
+peppar, och blanda väl. Värm upp igen och servera. Garnera med
+persilja eller paprika. Den pureade blomkålen kan läggas i en
+ugnssäker form, sprinkla över riven cheddarost och värm i ugnen tills
+osten smälter.
+
+
 Sweet and Sour Lentils
 ----------------------
+
+2 1/2 dl linser
+2 msk white vinegar (ättika?)
+3 msk honung
+2 msk smör
+
+Blötlägg linserna över natten och häll av vattnet. Tillsätt vatten så
+att det täcker linserna och sjud tills de är lagom mjuka. Häll av
+vattnet. Tillsätt resterande ingredienser, värm upp och servera.
+
 
 
 Main dishes, poultry stuffing, gravy
@@ -749,3 +812,4 @@ double boiler = ?
 apple cider = ? (äppelmust?)
 vinaigrette = ? (mest stavning..)
 condiments = ?
+rancid = ?
