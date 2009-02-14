@@ -1,0 +1,2 @@
+#!/bin/bash
+scp -r * remar@ftp.bilbomedia.com:~/remar.se/www/scd/.

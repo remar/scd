@@ -1,0 +1,8 @@
+#!/bin/bash
+mkdir -p /var/www/html/andreas/scd
+mkdir -p /var/www/html/andreas/scd/gfx
+mkdir -p /var/www/html/andreas/scd/recept
+
+cp *.php *.html *.css *.xml /var/www/html/andreas/scd/.
+cp gfx/* /var/www/html/andreas/scd/gfx/.
+cp recept/* /var/www/html/andreas/scd/recept/.

@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<ingredients>
+
+<ingredient name="Ananas" category="fruit"><comment></comment></ingredient>
+<ingredient name="Ansjovis" category="product"><comment>Jag har inte hittat någon tillåten ansjovis i Sverige</comment></ingredient>
+<ingredient name="Apelsiner" category="fruit"><comment></comment></ingredient>
+<ingredient name="Aprikoser" category="fruit"><comment></comment></ingredient>
+<ingredient name="Avokado" category="fruit"><comment></comment></ingredient>
+<ingredient name="Avokadoolja" category="product"><comment></comment></ingredient>
+
+<ingredient name="Bacon" category="product"><comment>Pigham Bacon har inget socker tillsatt</comment></ingredient>
+<ingredient name="Banan" category="fruit"><comment></comment></ingredient>
+<ingredient name="Black beans (!)" category="legume"><comment></comment></ingredient>
+<ingredient name="Blomkål" category="vegetable"><comment></comment></ingredient>
+<ingredient name="Blåmögelost" category="dairy"><comment></comment></ingredient>
+<ingredient name="Bok Choy" category="vegetable"><comment></comment></ingredient>
+<ingredient name="Brieost" category="dairy"><comment></comment></ingredient>
+<ingredient name="Broccoli" category="vegetable"><comment></comment></ingredient>
+<ingredient name="Brysselkål" category="vegetable"><comment></comment></ingredient>
+<ingredient name="Bär" category="fruit"><comment></comment></ingredient>
+
+<ingredient name="Camembert" category="dairy"><comment></comment></ingredient>
+<ingredient name="Cashewnötter" category="nut"><comment></comment></ingredient>
+<ingredient name="Cherimoya" category="fruit"><comment></comment></ingredient>
+<ingredient name="Citroner" category="fruit"><comment></comment></ingredient>
+<ingredient name="Cottage cheese" category="dairy"><comment>Får inte vara någon mjölk eller grädde iblandad</comment></ingredient>
+<ingredient name="Dadlar" category="fruit"><comment></comment></ingredient>
+<ingredient name="Dragon" category="spice"><comment></comment></ingredient>
+<ingredient name="Druvjuice" category="drink"><comment></comment></ingredient>
+<ingredient name="Druvkärnolja" category="product"><comment></comment></ingredient>
+
+<ingredient name="Fikon" category="fruit"><comment></comment></ingredient>
+<ingredient name="Fisk" category="animalia"><comment></comment></ingredient>
+<ingredient name="Fläsk" category="animalia"><comment></comment></ingredient>
+<ingredient name="Fågel" category="animalia"><comment></comment></ingredient>
+
+<ingredient name="Ghee" category="dairy"><comment>Skirat smör</comment></ingredient>
+<ingredient name="Gin" category="drink"><comment></comment></ingredient>
+<ingredient name="Gorgonzola" category="dairy"><comment></comment></ingredient>
+<ingredient name="Grapefrukt" category="fruit"><comment></comment></ingredient>
+<ingredient name="Gröna ärtor" category="legume"><comment></comment></ingredient>
+<ingredient name="Grönkål" category="vegetable"><comment></comment></ingredient>
+<ingredient name="Gula ärtor" category="legume"><comment></comment></ingredient>
+<ingredient name="Gurka" category="vegetable"><comment></comment></ingredient>
+
+<ingredient name="Haricot verts" category="legume"><comment></comment></ingredient>
+<ingredient name="Hasselnötter" category="nut"><comment></comment></ingredient>
+<ingredient name="Honung" category="product"><comment></comment></ingredient>
+<ingredient name="Honungsmelon" category="fruit"><comment></comment></ingredient>
+<ingredient name="Hårdost" category="dairy"><comment></comment></ingredient>
+
+<ingredient name="Ingefära" category="spice"><comment></comment></ingredient>
+
+<ingredient name="Jalapenos" category="spice"><comment></comment></ingredient>
+<ingredient name="Jordnötsolja" category="product"><comment></comment></ingredient>
+<ingredient name="Jordnötssmör" category="product"><comment></comment></ingredient>
+<ingredient name="Jordnötter" category="legume"><comment></comment></ingredient>
+
+<ingredient name="Kaki" category="fruit"><comment></comment></ingredient>
+<ingredient name="Kapris" category="spice"><comment></comment></ingredient>
+<ingredient name="Kastanjer" category="nut"><comment></comment></ingredient>
+<ingredient name="Kefir" category="dairy"><comment></comment></ingredient>
+<ingredient name="Kidneybönor" category="legume"><comment></comment></ingredient>
+<ingredient name="Kimchi" category="product"><comment></comment></ingredient>
+<ingredient name="Kiwi" category="fruit"><comment></comment></ingredient>
+<ingredient name="Kokosmjölk" category="product"><comment></comment></ingredient>
+<ingredient name="Kokosnöt" category="nut"><comment></comment></ingredient>
+<ingredient name="Kokosolja" category="product"><comment></comment></ingredient>
+<ingredient name="Koriander" category="spice"><comment></comment></ingredient>
+<ingredient name="Kronärtskocka (Fransk)" category="vegetable"><comment></comment></ingredient>
+<ingredient name="Kumquat" category="fruit"><comment></comment></ingredient>
+<ingredient name="Källfräne" category="vegetable"><comment></comment></ingredient>
+<ingredient name="Kål" category="vegetable"><comment></comment></ingredient>
+<ingredient name="Kålrot" category="root"><comment></comment></ingredient>
+<ingredient name="Körsbär" category="fruit"><comment></comment></ingredient>
+
+<ingredient name="Lamm" category="animalia"><comment></comment></ingredient>
+<ingredient name="Limabönor" category="legume"><comment></comment></ingredient>
+<ingredient name="Lime" category="fruit"><comment></comment></ingredient>
+<ingredient name="Linolja" category="product"><comment></comment></ingredient>
+<ingredient name="Linser" category="legume"><comment></comment></ingredient>
+<ingredient name="Lök" category="root"><comment></comment></ingredient>
+
+<ingredient name="Macadamianötter" category="nut"><comment></comment></ingredient>
+<ingredient name="Macadamiaolja" category="product"><comment></comment></ingredient>
+<ingredient name="Majsolja" category="product"><comment></comment></ingredient>
+<ingredient name="Mandelolja" category="product"><comment></comment></ingredient>
+<ingredient name="Mandlar" category="nut"><comment></comment></ingredient>
+<ingredient name="Mango" category="fruit"><comment></comment></ingredient>
+<ingredient name="Mangold" category="vegetable"><comment></comment></ingredient>
+<ingredient name="Mjöd" category="drink"><comment></comment></ingredient>
+<ingredient name="Morötter" category="root"><comment></comment></ingredient>
+
+<ingredient name="Nectariner" category="fruit"><comment></comment></ingredient>
+<ingredient name="Nätmelon" category="fruit"><comment></comment></ingredient>
+<ingredient name="Nötkött" category="animalia"><comment></comment></ingredient>
+
+<ingredient name="Oliver" category="spice"><comment></comment></ingredient>
+<ingredient name="Olivolja" category="product"><comment></comment></ingredient>
+
+<ingredient name="Papaya" category="fruit"><comment></comment></ingredient>
+<ingredient name="Paprika" category="vegetable"><comment></comment></ingredient>
+<ingredient name="Paranötter" category="nut"><comment></comment></ingredient>
+<ingredient name="Parmesan" category="dairy"><comment></comment></ingredient>
+<ingredient name="Passionsfrukt" category="fruit"><comment></comment></ingredient>
+<ingredient name="Pecannötter" category="nut"><comment></comment></ingredient>
+<ingredient name="Peppar" category="spice"><comment></comment></ingredient>
+<ingredient name="Pepparrot" category="root"><comment></comment></ingredient>
+<ingredient name="Persikor" category="fruit"><comment></comment></ingredient>
+<ingredient name="Persilja" category="spice"><comment></comment></ingredient>
+<ingredient name="Pinjenötter" category="nut"><comment></comment></ingredient>
+<ingredient name="Pistaschnötter" category="nut"><comment></comment></ingredient>
+<ingredient name="Plommon" category="fruit"><comment></comment></ingredient>
+<ingredient name="Pumpa" category="vegetable"><comment></comment></ingredient>
+<ingredient name="Purjolök" category="vegetable"><comment></comment></ingredient>
+<ingredient name="Päron" category="fruit"><comment></comment></ingredient>
+
+<ingredient name="Rabarber" category="vegetable"><comment></comment></ingredient>
+<ingredient name="Rapsolja" category="product"><comment></comment></ingredient>
+<ingredient name="Rotselleri" category="root"><comment></comment></ingredient>
+<ingredient name="Russin" category="product"><comment></comment></ingredient>
+<ingredient name="Rödbetor" category="root"><comment></comment></ingredient>
+
+<ingredient name="Safflorolja" category="product"><comment></comment></ingredient>
+<ingredient name="Sallat" category="vegetable"><comment></comment></ingredient>
+<ingredient name="Salt" category="spice"><comment></comment></ingredient>
+<ingredient name="Saltgurka" category="product"><comment></comment></ingredient>
+<ingredient name="Selleri" category="vegetable"><comment></comment></ingredient>
+<ingredient name="Sesamolja" category="product"><comment></comment></ingredient>
+<ingredient name="Sharon" category="fruit"><comment></comment></ingredient>
+<ingredient name="Skaldjur" category="animalia"><comment></comment></ingredient>
+<ingredient name="Smör" category="dairy"><comment></comment></ingredient>
+<ingredient name="Solrosolja" category="product"><comment></comment></ingredient>
+<ingredient name="Sparris" category="vegetable"><comment></comment></ingredient>
+<ingredient name="Spenat" category="vegetable"><comment></comment></ingredient>
+<ingredient name="Squash" category="vegetable"><comment></comment></ingredient>
+<ingredient name="Stilton" category="dairy"><comment>Vit- eller blåmögelost från England</comment></ingredient>
+<ingredient name="Surkål" category="product"><comment>Kontrollera noga så inga otillåtna ingredienser finns med</comment></ingredient>
+<ingredient name="Svamp" category="root"><comment></comment></ingredient>
+<ingredient name="Svart rädisa" category="root"><comment></comment></ingredient>
+<ingredient name="Sviskon" category="fruit"><comment></comment></ingredient>
+
+<ingredient name="Tangerin" category="fruit"><comment></comment></ingredient>
+<ingredient name="Tomater" category="vegetable"><comment></comment></ingredient>
+<ingredient name="Tomatjuice" category="product"><comment></comment></ingredient>
+<ingredient name="Tranbär" category="fruit"><comment></comment></ingredient>
+
+<ingredient name="Valnötsolja" category="product"><comment></comment></ingredient>
+<ingredient name="Valnötter" category="nut"><comment></comment></ingredient>
+<ingredient name="Vattenkastanj" category="root"><comment></comment></ingredient>
+<ingredient name="Vattenmelon" category="fruit"><comment></comment></ingredient>
+<ingredient name="Vin" category="product"><comment>Måste vara mycket torrt</comment></ingredient>
+<ingredient name="Vindruvor" category="fruit"><comment></comment></ingredient>
+<ingredient name="Vinäger" category="spice"><comment></comment></ingredient>
+<ingredient name="Vita bönor" category="legume"><comment></comment></ingredient>
+<ingredient name="Vitlök" category="root"><comment></comment></ingredient>
+<ingredient name="Vodka" category="drink"><comment></comment></ingredient>
+
+<ingredient name="Wasabi" category="spice"><comment></comment></ingredient>
+<ingredient name="Whiskey" category="drink"><comment></comment></ingredient>
+
+<ingredient name="Yoghurt" category="dairy"><comment>Egentillverkad</comment></ingredient>
+
+<ingredient name="Zucchini" category="vegetable"><comment></comment></ingredient>
+
+<ingredient name="Ägg" category="animalia"><comment></comment></ingredient>
+<ingredient name="Äggplanta" category="vegetable"><comment></comment></ingredient>
+<ingredient name="Äppelmust" category="product"><comment></comment></ingredient>
+<ingredient name="Äpplen" category="fruit"><comment></comment></ingredient>
+
+</ingredients>
