@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<recipe name="Yoghurt">
+
+  <ingredients>
+    <ingredient>1 liter mjölk (lätt, mellan eller standard)</ingredient>
+    <ingredient>½ dl naturell yoghurt (mild eller standard)</ingredient>
+  </ingredients>
+
+  <instructions>
+Det är enklast att göra yoghurt i en yoghurtmaskin. Annars går det
+lika bra med en annan värmekälla, så länge den håller en temperatur på
+37-43 grader i 24 timmar.
+
+Häll mjölken i en gryta och värm tills den börjar sjuda. Rör under
+tiden så att den inte bränner fast (ju lägre fetthalt desto mer
+behöver du röra). Låt sedan mjölken svalna till under 43 grader,
+exempelvis genom att ställa ner grytan i ett vattenbad. Tillsätt
+yoghurten och vispa ordentligt så att yoghurten löser upp sig
+helt. Häll upp i det/de kärl som tillhör yoghurtmaskinen, eller använd
+valfri plast- eller glasburk om du värmer på annat sätt. Ställ den
+blivande yoghurten i yoghurtmaskinen, slå på och vänta i 24
+timmar. När den är färdig ska yoghurten kylas ner i åtminstone 8
+timmar.
+  </instructions>
+  <note>
+Notera att den yoghurt man startar med ska vara helt naturell, exempelvis Arlas ekologiska milda yoghurt (3.8-4.5% fett). Yoghurten ska bara bestå av mjölk och bakteriekultur (Lactobacillus bulgaricus och Streptococcus thermophilus).
+  </note>
+</recipe>

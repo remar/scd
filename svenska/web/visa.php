@@ -31,11 +31,16 @@ function start($parser, $element_name, $element_attrs)
 {
   global $recipe_name;
   global $state;
+  global $text;
 
   switch($element_name)
     {
     case "RECIPE":
       $recipe_name = (string)$element_attrs["NAME"];
+      break;
+
+    case "LINK":
+      $text .= "<a href=\"visa.php?recept=".$element_attrs["HREF"].".xml\">".$element_attrs["NAME"]."</a>";
       break;
     }
 }
@@ -78,6 +83,11 @@ xml_set_character_data_handler($parser, "char");
 
 $fp = fopen($recipe_file,"r");
 
+if($fp == FALSE)
+  {
+    echo '<h2>Oj då, jag kan inte hitta det receptet!</h2>';
+  }
+
 while($data=fread($fp, 4096))
   {
     xml_parse($parser, $data, feof($fp)) or die("XML Error");
@@ -109,6 +119,15 @@ foreach($instructions as $instruction)
 {
   echo '<p>'.$instruction.'</p>';
 }
+
+if(count($notes) > 0)
+  {
+    echo '<h3>Noter</h3>';
+    foreach($notes as $note)
+      {
+	echo '<p>'.$note.'</p>';
+      }
+  }
 ?>
 
 </td>

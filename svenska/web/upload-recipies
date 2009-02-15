@@ -1,0 +1,2 @@
+#!/bin/bash
+scp -r recept/* remar@ftp.bilbomedia.com:~/remar.se/www/scd/recept/.

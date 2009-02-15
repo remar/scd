@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<recipe name="Creme fraiche">
+
+  <ingredients>
+    <ingredient>½ liter vispgrädde</ingredient>
+    <ingredient>1 dl naturell yoghurt (mild eller standard)</ingredient>
+  </ingredients>
+
+  <instructions>
+
+Gör precis som med <link href="yoghurt" name="yoghurt" /> men byt ut
+mjölk mot grädde, och ta 1 dl yoghurt till ½ liter grädde istället.
+
+  </instructions>
+</recipe>

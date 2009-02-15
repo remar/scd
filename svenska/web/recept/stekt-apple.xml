@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<recipe name="Stekt äpple med creme fraiche">
+
+  <ingredients>
+    <ingredient>Smör</ingredient>
+    <ingredient>Äpplen</ingredient>
+    <ingredient>Kanel</ingredient>
+    <ingredient>Hemmagjord <link href="creme-fraiche" name="creme fraiche" /></ingredient>
+  </ingredients>
+
+  <instructions>
+
+Skala och skär äpple i 1 cm stora bitar. Smält en ordentlig klick
+smör i en stekpanna och stek äppelbitarna på medelvärme. Stek
+äppelbitarna tills de är lagom mjuka. Lägg upp äppelbitarna i en
+tallrik, strö över kanel och servera med vispad creme fraiche.
+
+  </instructions>
+</recipe>

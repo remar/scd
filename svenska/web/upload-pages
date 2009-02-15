@@ -1,0 +1,2 @@
+#!/bin/bash
+scp -r *.php *.xml *.css *.html remar@ftp.bilbomedia.com:~/remar.se/www/scd/.

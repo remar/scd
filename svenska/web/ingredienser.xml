@@ -149,7 +149,7 @@
 <ingredient name="Valnötter" category="nut"><comment></comment></ingredient>
 <ingredient name="Vattenkastanj" category="root"><comment></comment></ingredient>
 <ingredient name="Vattenmelon" category="fruit"><comment></comment></ingredient>
-<ingredient name="Vin" category="product"><comment>Måste vara mycket torrt</comment></ingredient>
+<ingredient name="Vin" category="drink"><comment>Måste vara mycket torrt</comment></ingredient>
 <ingredient name="Vindruvor" category="fruit"><comment></comment></ingredient>
 <ingredient name="Vinäger" category="spice"><comment></comment></ingredient>
 <ingredient name="Vita bönor" category="legume"><comment></comment></ingredient>
