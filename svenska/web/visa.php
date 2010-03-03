@@ -18,6 +18,7 @@
 <?php 
 
 $recipe_name = "";
+$recipe_origin = "";
 $text = "";
 $ingredients = array();
 $instructions = array();
@@ -30,13 +31,15 @@ $parser = xml_parser_create();
 function start($parser, $element_name, $element_attrs)
 {
   global $recipe_name;
+  global $recipe_origin;
   global $state;
   global $text;
 
   switch($element_name)
     {
     case "RECIPE":
-      $recipe_name = (string)$element_attrs["NAME"];
+      $recipe_name =   (string)$element_attrs["NAME"];
+      $recipe_origin = (string)$element_attrs["ORIGIN"];
       break;
 
     case "LINK":
@@ -127,6 +130,13 @@ if(count($notes) > 0)
       {
 	echo '<p>'.$note.'</p>';
       }
+  }
+?>
+
+<?php 
+if($recipe_origin != "")
+  {
+    echo '<i>Receptet lånat från '.$recipe_origin.'</i>';
   }
 ?>
 
