@@ -67,7 +67,7 @@
 <ingredient name="Kokosnöt" category="nut"><comment></comment></ingredient>
 <ingredient name="Kokosolja" category="product"><comment></comment></ingredient>
 <ingredient name="Koriander" category="spice"><comment></comment></ingredient>
-<ingredient name="Kronärtskocka (Fransk)" category="vegetable"><comment></comment></ingredient>
+<ingredient name="Kronärtskocka" category="vegetable"><comment></comment></ingredient>
 <ingredient name="Kumquat" category="fruit"><comment></comment></ingredient>
 <ingredient name="Källfräne" category="vegetable"><comment></comment></ingredient>
 <ingredient name="Kål" category="vegetable"><comment></comment></ingredient>
@@ -159,13 +159,13 @@
 <ingredient name="Wasabi" category="spice"><comment></comment></ingredient>
 <ingredient name="Whiskey" category="drink"><comment></comment></ingredient>
 
-<ingredient name="Yoghurt" category="dairy"><comment>Egentillverkad</comment></ingredient>
+<ingredient name="Yoghurt" category="dairy"><comment>Egentillverkad, se Recept</comment></ingredient>
 
 <ingredient name="Zucchini" category="vegetable"><comment></comment></ingredient>
 
 <ingredient name="Ägg" category="animalia"><comment></comment></ingredient>
 <ingredient name="Äggplanta" category="vegetable"><comment></comment></ingredient>
-<ingredient name="Äppelmust" category="product"><comment></comment></ingredient>
+<ingredient name="Äppelmust" category="drink"><comment></comment></ingredient>
 <ingredient name="Äpplen" category="fruit"><comment></comment></ingredient>
 
 </ingredients>
