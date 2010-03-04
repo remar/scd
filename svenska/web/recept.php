@@ -37,6 +37,12 @@ recept här, så jag kan inte garantera att det blir gott. :)
 <tr><td><a href="visa.php?recept=kycklingsoppa.xml">Kycklingsoppa</a></td></tr>
 <tr><td><a href="visa.php?recept=aggplantssoppa.xml">Äggplantssoppa</a></td></tr>
 
+<tr><td class="heading">Sallader</td></tr>
+<tr><td><a href="visa.php?recept=kesosallad.xml">Kesosallad</a></td></tr>
+<tr><td><a href="visa.php?recept=morotssallad.xml">Morotssallad</a></td></tr>
+<tr><td><a href="visa.php?recept=fisksallad.xml">Fisksallad</a></td></tr>
+<tr><td><a href="visa.php?recept=waldorfsallad.xml">Waldorfsallad</a></td></tr>
+
 <tr><td class="heading">Tillbehör</td></tr>
 <tr><td><a href="visa.php?recept=persiljesmor.xml">Persiljesmör</a></td></tr>
 <tr><td><a href="visa.php?recept=jordnotssmorrora.xml">Jordnötssmörröra</a></td></tr>
@@ -46,6 +52,8 @@ recept här, så jag kan inte garantera att det blir gott. :)
 <tr><td><a href="visa.php?recept=honungschutney.xml">Honungschutney</a></td></tr>
 <tr><td><a href="visa.php?recept=ketchup.xml">Ketchup</a></td></tr>
 <tr><td><a href="visa.php?recept=majonas.xml">Majonäs</a></td></tr>
+<tr><td><a href="visa.php?recept=ananassalsa.xml">Ananassalsa</a></td></tr>
+<tr><td><a href="visa.php?recept=tranbarsrelish.xml">Tranbärsrelish</a></td></tr>
 
 <tr><td class="heading">Efterrätter</td></tr>
 <tr><td><a href="visa.php?recept=stekt-apple.xml">Stekt äpple med creme fraice</a></tr></td>
